@@ -17,3 +17,7 @@ You may have changes you want to try out while still keeping the original versio
 How do the diagrams help you visualize the branch structure?
 
 It helps show when branches were made and which commits are reachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together combines the two branches’ commits. You end up with a combination of the two branches where changes were added. It is represented in the diagram as two lines coming back into one line.
