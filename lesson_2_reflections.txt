@@ -9,3 +9,7 @@ The staging area acts as the go-between between the working directory and the re
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can use the staging area to organize your changes so that if you have made multiple changes, you can add the ones that make sense to add in one commit, then commit that. then repeat.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+You may have changes you want to try out while still keeping the original version going. You may be working on a website where you have different branches for different looks of the same site. This would help keep the different versions the same but still on the same base of code.
